@@ -1,0 +1,78 @@
+﻿John Cena 2.0  ---  Marie-Michelle Ivantechenko & Jake Zaia
+Pokemon Battle Simulator
+ ______   ______   __   __   __       ______   _______     
+/_____/\ /_____/\ /_/\ /_/\ /_/\     /_____/\ /______/\    
+\:::_ \ \\::::_\/_\:\ \\ \ \\:\ \    \:::_ \ \\::::__\/__  
+ \:\ \ \ \\:\/___/\\:\ \\ \ \\:\ \    \:\ \ \ \\:\ /____/\ 
+  \:\ \ \ \\::___\/_\:\_/.:\ \\:\ \____\:\ \ \ \\:\\_  _\/ 
+   \:\/.:| |\:\____/\\ ..::/ / \:\/___/\\:\_\ \ \\:\_\ \ \ 
+    \____/_/ \_____\/ \___/_(   \_____\/ \_____\/ \_____\/ 
+==============================================================
+Obstacles Overcome
+—————————————————————————————————————————————————————————————-
+- Lack of an ability to have sprites as turtles.
+- Many bugs with fainting.
+- Type effectiveness was complicated.
+
+==============================================================
+Unresolved Issues
+—————————————————————————————————————————————————————————————-
+Surprisingly none (this is what happens when two people have no life).
+
+==============================================================
+Cool Stuff Learned
+—————————————————————————————————————————————————————————————-
+- Import-drawings is a big one.
+- The entire concept of using turtles as variable storage.
+- The stop primitive.
+
+==============================================================
+Mid-development Design Changes
+—————————————————————————————————————————————————————————————-
+- Overhaul of the fainting function between Beta v 1.2 and Final v 1.0
+- Overhaul of damage system to account for type effectiveness.
+
+==============================================================
+Lessons Learned
+—————————————————————————————————————————————————————————————-
+- Spend more than 50 hours on a project if you want it to work and look well unlike some peoples (many friendships were broken in the creation of this product).
+- NetLogo turtle shape editing likes to continuously break our spirits.
+
+==============================================================
+2016-01-25
+—————————————————————————————————————————————————————————————-
+- Added info tab (shhh it’s totally not like we saved it until last minute).
+
+==============================================================
+2016-01-24
+—————————————————————————————————————————————————————————————-
+Marie: Finished really annoying (yet awesome) effects list.
+Jake: Finished image library (I lied I’m never gonna give it up), finished status effects.
+Both: Implemented lists, wrote parody, fixed more bugs with fainting, got weather and status effects working.
+
+==============================================================
+2016-01-22
+—————————————————————————————————————————————————————————————-
+Marie: Started on super long effects list (OMG IT’S SO STRESSFUL).
+Jake: Finished image library (again, shhh I swear this is the final time).
+Both: Fixed bugs in fainting.
+
+==============================================================
+2016-01-21
+--------------------------------------------------------------
+Jake: Finished image library (again, ik ik)
+Both: Implemented collossal list, got fainting functioning
+
+==============================================================
+2016-01-20
+--------------------------------------------------------------
+Marie: Liiiiiiiiiiiiiiiiiiiiiiiiiists. Moar lists. WHY ARE THERE SO MANY LISTS???
+Jake: Got damage calculations working, finished image library.
+Both: Got battling turns working
+
+==============================================================
+2016-01-16
+--------------------------------------------------------------
+Marie: Implemented correct stats and names for pokemon. (Assigns them to turtle)
+Jake: Completed sprite library for pokemon, created background images.
+==============================================================
